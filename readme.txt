@@ -1,1 +1,1 @@
-test
+minimal HTML5 document
